@@ -2,7 +2,7 @@
 
 A deep learning-based model to distinguish between AI-generated and human-created images. This repository includes data preprocessing, model training (ConVitX with ConvNeXt Large and Swin Transformer), evaluation using F1-score, and real-time deployment. Built for the Kaggle competition "Can You Tell the Difference?"
 
-![AI vs Human Generated Images](https://kaggle.com/competitions/91198/images/header)
+![Deepfake Example](https://i.pcmag.com/imagery/articles/01lTyBxcS2L9vruDcS4D2Ho-1.fit_lim.size_1600x900.v1692729678.png)
 
 ## Table of Contents
 
