@@ -13,6 +13,7 @@ A deep learning-based model to distinguish between AI-generated and human-create
 - [Evaluation](#evaluation)
 - [Deployment](#deployment)
 - [Usage](#usage)
+- [Files](#files)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -43,6 +44,9 @@ The model is trained using the following steps:
 
 The model is evaluated using the F1-score metric to ensure a balanced measure of precision and recall.
 
+## I secured 25th position on the public leaderboard
+![Leaderboard Snapshot](lb.PNG)
+
 ## Deployment
 
 The trained model is deployed for real-time image classification, allowing users to input images and receive predictions on whether they are AI-generated or human-created.
@@ -53,6 +57,17 @@ To use the model for image classification, follow these steps:
 1. Clone the repository: `git clone https://github.com/SheemaMasood381/Detect_AI_vs_Human_Generated_Image.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the classification script: `python classify_image.py --image_path path_to_image`
+
+## Files
+
+- `README.md`: Project overview and instructions
+- `app.py`: Main application script for deployment
+- `inference.py`: Script for making inferences with the trained model
+- `lb.PNG`: Leaderboard snapshot showing 28th position
+- `load_model.py`: Script for loading the trained model
+- `model.py`: Model architecture definition
+- `notebooks/`: Directory containing Jupyter notebooks for experimentation
+- `requirements.txt`: List of dependencies required for the project
 
 ## Contributing
 
@@ -72,4 +87,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sheemamasood381) for any queries or collaborations.
 
-![Leaderboard Snapshot](lb.PNG)
