@@ -88,5 +88,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sheemamasood381) for any queries or collaborations.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sheema-masood/) for any queries or collaborations.
 
