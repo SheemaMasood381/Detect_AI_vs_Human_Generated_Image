@@ -35,6 +35,7 @@ The model architecture consists of:
 - 
 ![model architecture](model_architecture.png)
 
+
 ## Training
 
 The model is trained using the following steps:
