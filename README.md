@@ -33,7 +33,7 @@ The model architecture consists of:
 - **ConvNeXt Large**: A convolutional network architecture designed for high performance on image classification tasks.
 - **Swin Transformer**: A transformer architecture with shifted windows for efficient image processing.
 - 
-![model architecture](model_architecture.png)
+
 
 
 ## Training
