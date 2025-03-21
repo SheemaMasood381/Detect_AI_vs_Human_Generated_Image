@@ -32,6 +32,8 @@ The model architecture consists of:
 - **ConVitX**: A custom model constructed by combining ConvNeXt Large and Swin Transformer architectures.
 - **ConvNeXt Large**: A convolutional network architecture designed for high performance on image classification tasks.
 - **Swin Transformer**: A transformer architecture with shifted windows for efficient image processing.
+- 
+![model architecture](model_architecture.png)
 
 ## Training
 
